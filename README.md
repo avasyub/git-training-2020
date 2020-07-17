@@ -19,3 +19,9 @@ Hi, I'm Binoy. I'm a Web Dev in the Header Bidder team.
 # Priyanka Aggarwal
 
 Hi, I'm Priyanka. I'm a SDE at Media.net, Bangalore.
+
+
+## Avasyu Bhatia
+Hey I'm Avasyu. I work in the CM team.
+
+
