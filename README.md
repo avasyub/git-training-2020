@@ -15,3 +15,7 @@ Trainers :
 ## Binoy Chitale
 
 Hi, I'm Binoy. I'm a Web Dev in the Header Bidder team.
+
+# Priyanka Aggarwal
+
+Hi, I'm Priyanka. I'm a SDE at Media.net, Bangalore.
